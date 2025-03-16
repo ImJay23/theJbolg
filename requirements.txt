@@ -18,7 +18,7 @@ MarkupSafe==3.0.2
 packaging==24.2
 psycopg2-binary==2.9.10
 python-dotenv==1.0.1
-sqlalchemy<2.0
+sqlalchemy
 typing_extensions==4.12.2
 Werkzeug==3.0.0
 WTForms==3.0.1
